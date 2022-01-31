@@ -16,3 +16,5 @@ def make_shell_context():
       "db": db,
       "Entry": models.Entry
   }
+
+#app.run()
